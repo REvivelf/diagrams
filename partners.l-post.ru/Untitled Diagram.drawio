@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-06T08:39:52.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="eF_r70gg9V_iGnXEtEvt" version="15.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-06T08:55:24.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="xf2oxu0fa1R2thER-a_m" version="15.0.6" type="github">
   <diagram id="ePz8kFGaklfYlq_HuGou" name="Page-1">
-    <mxGraphModel dx="7700" dy="7297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="4876" dy="5383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
             <mxPoint x="310" y="203" as="targetPoint" />
             <Array as="points">
               <mxPoint x="276" y="86.08999999999997" />
-              <mxPoint x="276" y="199" />
+              <mxPoint x="276" y="203" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -96,14 +96,14 @@
         <mxCell id="-7Sf-413P5OjMRVj1NkW-17" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="500" y="173" width="220" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="-7Sf-413P5OjMRVj1NkW-18" value="&lt;div style=&quot;text-align: left&quot;&gt;ID - Primary key&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;-----------------------------------------------&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;username - nvarchar(100)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Pass - nvarchar(64)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Full_name - nvarchar(100)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ptbl_otdel.ID - int&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ptbl_role.ID - int&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Buks_id - int&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-7Sf-413P5OjMRVj1NkW-17">
+        <mxCell id="-7Sf-413P5OjMRVj1NkW-18" value="&lt;div style=&quot;text-align: left&quot;&gt;ID - Primary key&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;-----------------------------------------------&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;username - nvarchar(100)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Pass - nvarchar(64)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;Full_name - nvarchar(100)&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ptbl_otdel.ID - int&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;ptbl_role.ID - int&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-7Sf-413P5OjMRVj1NkW-17">
           <mxGeometry y="21.11111111111111" width="220" height="168.88888888888889" as="geometry" />
         </mxCell>
         <mxCell id="-7Sf-413P5OjMRVj1NkW-19" value="&lt;span style=&quot;font-size: 14px&quot;&gt;ptbl_user&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="-7Sf-413P5OjMRVj1NkW-17">
           <mxGeometry x="60" width="100" height="14.074074074074074" as="geometry" />
         </mxCell>
         <mxCell id="-7Sf-413P5OjMRVj1NkW-20" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="860" y="667.5" width="230" height="270" as="geometry" />
+          <mxGeometry x="1110" y="-200" width="230" height="270" as="geometry" />
         </mxCell>
         <mxCell id="-7Sf-413P5OjMRVj1NkW-21" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;ID -&amp;nbsp; primary key&lt;div&gt;&lt;span&gt;----------------------------------&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;ptbl_partners.ID - int&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Field_name - nvarshar(40)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Value_old - nvarchsr(400)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Value_new - nvarchar(400)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Date_change - datetime&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;ptbl_user.ID int&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px&quot;&gt;Comment - nvarchar(200)&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="-7Sf-413P5OjMRVj1NkW-20">
           <mxGeometry y="30" width="230.00000000000003" height="240" as="geometry" />
